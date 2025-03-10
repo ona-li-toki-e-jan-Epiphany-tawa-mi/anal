@@ -10,8 +10,8 @@ Currently just a couple macros to enable more compiler warnings.
 
 ## Usage
 
-Place `#define ANAL_IMPLEMENTATION` in before you include this file in one, and
-only one, C file to create the implementation.
+Place `#define ANAL_IMPLEMENTATION` in one, and only one, C file before you
+include this file to create the implementation.
 
 I.e.:
 
